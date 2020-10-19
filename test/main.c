@@ -4,7 +4,7 @@
 #include <cmocka.h>
 
 /**
- *  A test example.
+ * A test example.
  */
 static void test_example(void **state) {
     (void) state;
